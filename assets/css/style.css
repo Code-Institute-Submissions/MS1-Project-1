@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Montserrat&display=swap');
+/* 
+font-family: 'Metal Mania', cursive;
+font-family: 'Montserrat', sans-serif; */
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+
+p {
+    line-height: 2rem;
+}
+
+.sidenav-trigger {
+    color: #26a69a;
+}
+
+.parallax-container {
+    min-height: 380px;
+    line-height: 0;
+    height: 100%;
+    color: rgba(255, 255, 255, .9);
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+@media only screen and (max-width : 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+
+    #index-banner .section {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    #index-banner .section {
+        top: 0;
+    }
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+footer.page-footer {
+    margin: 0;
+}
+
+
+/* Navbar */
+
+
+.brand-logo img {
+    max-height: 46px;
+    margin-top: 5px;
+}
+
+nav ul li a {
+    font-family: 'Metal Mania', cursive;
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(180, 180, 180);
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    color: white;
+}
+
+
+nav {
+    background-color: #191c23;
+}
+
+@media (min-width:768px) {
+    .brand-logo {
+        margin-left: 15px;
+    }
+
+    .brand-logo img {
+        max-height: 56px;
+        margin-top: 3px;
+    }
+
+}
+
+/* Hero Image */
+
+/* 
+.hero {
+    background-image: url(../images/Hero-Image.png);
+    background-position: center top;
+     background-repeat: no-repeat;
+     background-color: #191c23;
+     background-size: 100%, 100%;
+
+} */
+.parallax-container img {
+    
+}
