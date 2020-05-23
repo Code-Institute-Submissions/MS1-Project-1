@@ -73,7 +73,8 @@ footer.page-footer {
     margin-top: 5px;
 }
 
-nav ul li a {
+nav ul li a,
+#nav-mobile li a {
     font-family: 'Metal Mania', cursive;
     font-size: 25px;
     font-weight: 300;
@@ -81,13 +82,22 @@ nav ul li a {
 }
 
 nav ul li a:hover,
-nav ul li a.active {
+nav ul li a.active,
+#nav-mobile li a:hover,
+#nav-mobile li a.active {
     color: white;
 }
 
 
 nav {
     background-color: #191c23;
+    margin: 0;
+
+}
+
+.sidenav {
+    background-color: #191c23;
+
 }
 
 @media (min-width:768px) {
@@ -114,5 +124,30 @@ nav {
 
 } */
 .parallax-container img {
+    width: 100%;
     
+}
+
+/* Landing page body */
+
+.headings {
+    font-family: 'Metal Mania', cursive;
+    font-size: 4rem;
+    font-weight: 600;
+    color: rgb(180, 180, 180);
+}
+.page-title {
+    display: block;
+}
+
+/* Footer */
+
+.socials a {
+    display: block;
+    color: rgb(180, 180, 180);
+}
+
+.page-footer .footer-row {
+    padding-bottom: 20px;
+    margin-bottom: 0;
 }
