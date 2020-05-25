@@ -2,7 +2,6 @@
   $(function(){
 
     $('.sidenav').sidenav();
-    $('.parallax').parallax();
     $('.tabs').tabs();
 
   }); // end of document ready
