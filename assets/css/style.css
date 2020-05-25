@@ -183,3 +183,9 @@ table {
  .card-tabs> div {
     padding: 0;
 } */
+
+/* Events */
+
+.events-body {
+    color: rgba(180, 180, 180, 0);
+}
