@@ -129,11 +129,19 @@ nav {
     font-size: 4rem;
     font-weight: 600;
     color: rgb(180, 180, 180);
+    margin-top: 0px;
+}
+.welcome-text {
+    font-family: 'Montserrat', sans serif;
+    font-weight: 200;
+    color: rgb(180, 180, 180);
 }
 
 .page-title {
     display: block;
 }
+
+
 
 /* Footer */
 
@@ -157,9 +165,8 @@ nav {
 
 .card {
     max-width: 350px;
+    margin: 0 auto;
 }
-
-
 
 .card tr td,
 .card tr th {
@@ -183,7 +190,24 @@ table {
 } */
 
 /* Events */
-
+.event-headings {
+    font-family: 'Metal Mania', cursive;
+    font-size: 4rem;
+    font-weight: 600;
+    color:#191c23;
+    margin-top: 0px;
+}
 .events-body {
-    color: rgba(180, 180, 180, 0);
+    background-color: rgba(180, 180, 180, 0);
+}
+
+.events-text, .events-form {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: #191c23;
+}
+
+#button {
+    background-color: #191c23;
+    color: rgb(180, 180, 180);
 }
