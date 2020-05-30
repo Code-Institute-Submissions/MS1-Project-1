@@ -2,6 +2,8 @@
 
 My website is based around the heavy metal band Avenged Sevenfold, a band I've followed for a long time.
 The reasons I chose this band to base my project around was because of my closeness to their music and love for their band art/ Album covers, they range from simple to heavily detailed but always eyecatching, and this is what my website embodies. My hope for it's users is to be a one-stop location for everything you'd want as a fan and for the band, a way to educate, create interest & revenue but overall be a place for a comunity to connect with Avenged Sevenfold and their music. 
+
+You can view my live site [here](https://louisgreenhall.github.io/MS1-Project/index.html)
  
 ## UX
  
