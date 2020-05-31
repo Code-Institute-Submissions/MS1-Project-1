@@ -7,8 +7,8 @@ You can view my live site [here](https://louisgreenhall.github.io/MS1-Project/in
  
 ## UX
  
-[Mobile Wireframe](user-experience\mobile-wireframe.jpg)
-[Desktop Wireframe](user-experience\desktop-wireframe.jpg)
+[Mobile Wireframe](https://github.com/louisgreenhall/MS1-Project/blob/master/user-experience/mobile-wireframe.jpg)
+[Desktop Wireframe](https://github.com/louisgreenhall/MS1-Project/blob/master/user-experience/desktop-wireframe.jpg)
 
 My website is for existing fans of Avenged Sevenfold and for those looking to discover them. On the other side it is for the band, it provides simple avenues for fans to generate royalty revenue from spotify and to make purchases of merch, the events page also keeps fans informed and will increase numbers for local and smaller shows. This website is the best way for fans and the bands to benefit as it hosts all these features in one place rather than having to find them individually.
 
