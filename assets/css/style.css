@@ -3,11 +3,7 @@
 font-family: 'Metal Mania', cursive;
 font-family: 'Montserrat', sans-serif; */
 
-/* Custom Stylesheet */
-/**
- *
- * Made By MaterializeCSS.com
- */
+
 
 nav ul a,
 nav .brand-logo {
@@ -21,18 +17,6 @@ p {
 .sidenav-trigger {
     color: rgb(180, 180, 180);
 }
-
-.parallax-container {
-    min-height: 380px;
-    line-height: 0;
-    height: 600px;
-    color: rgba(255, 255, 255, .9);
-}
-
-.parallax-container .section {
-    width: 100%;
-}
-
 
 .icon-block {
     padding: 0 15px;
@@ -179,6 +163,7 @@ hr {
 th {
     font-weight: 300;
     text-decoration: underline;
+    /* validator shows the following as an error, when supported by spec: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink */
     text-decoration-skip-ink: none;
 }
 
