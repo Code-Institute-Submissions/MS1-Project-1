@@ -33,22 +33,6 @@ p {
     width: 100%;
 }
 
-@media only screen and (max-width : 992px) {
-    .parallax-container .section {
-        position: absolute;
-        top: 40%;
-    }
-
-    #index-banner .section {
-        top: 10%;
-    }
-}
-
-@media only screen and (max-width : 600px) {
-    #index-banner .section {
-        top: 0;
-    }
-}
 
 .icon-block {
     padding: 0 15px;
@@ -98,6 +82,7 @@ nav {
 
 }
 
+/* Max-width used to prevent overlap of media queries */
 @media (min-width:600px) and (max-width:1920px) {
     .brand-logo {
         margin-left: 15px;
