@@ -7,8 +7,8 @@ You can view my live site [here](https://louisgreenhall.github.io/MS1-Project/in
  
 ## UX
  
-**TO BE ADDED
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. **
+[Mobile Wireframe](user-experience\mobile-wireframe.jpg)
+[Desktop Wireframe](user-experience\desktop-wireframe.jpg)
 
 My website is for existing fans of Avenged Sevenfold and for those looking to discover them. On the other side it is for the band, it provides simple avenues for fans to generate royalty revenue from spotify and to make purchases of merch, the events page also keeps fans informed and will increase numbers for local and smaller shows. This website is the best way for fans and the bands to benefit as it hosts all these features in one place rather than having to find them individually.
 
@@ -33,7 +33,7 @@ Events Page; finally fans can sign up to be notified about the band playing in t
 ### Existing Features
 
 - Album cards, allow fans to listen to each Avenged Sevenfold album, learn more about the album and see it's run time.
-- Merch iframe, allows customers to purchase Avenged Sevenfold clothing and art.
+- Merch iframe, allows customers to purchase Avenged Sevenfold clothing and art. (I  considered my options when deciding to use and iframe, I felt that functionality was more important to my UX than having a basic shop design or risk not being able to do it at all.)
 - Events form, allows users to provide information that in the future will enable them to sign up to a mailing list that will inform them of the band playing locally to them / the most local venue for any given tour in their country. They can also opt in to receive ticket prices and make a purchase then and there.
 - Social links, allows users to be directed straight to the band's social pages, these will open in a new tab.
 
